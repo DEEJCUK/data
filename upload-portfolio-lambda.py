@@ -21,5 +21,6 @@ def lambda_handler(event, context):
             portfolio_bucket.upload_fileobj(obj, nm,
                 ExtraArgs={'ContentType': mimetypes.guess_type(nm)[0]})
         portfolio_bucket.Object(nm).Acl().put(ACL='public-read')
-            
+
     return "Hello from Lambda"
+## function = lambda_function.lambda_handler
