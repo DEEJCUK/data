@@ -12,7 +12,7 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - RobinNorwood-Resume.pdf
+    - darran.curant.cv.pdf
     - styles/main.css
     - images/*
     - dist/bundle.js
