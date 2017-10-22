@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/darran-curant/my-portfolio.git"
+    "url": "https://github.com/robin-acloud/my-portfolio.git"
   },
   "author": "Robin Norwood <robin@acloud.guru>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/darran-curant/my-portfolio/issues"
+    "url": "https://github.com/robin-acloud/my-portfolio/issues"
   },
-  "homepage": "https://github.com/darran-curant/my-portfolio",
+  "homepage": "https://github.com/robin-acloud/my-portfolio",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1"

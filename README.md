@@ -1,5 +1,18 @@
-# 	Darrans Portfolio
-this is my professional portfolio. It uses AWS CLI tools, Git, ReactJS and other amazing stuff
+# Robin Norwood's portfolio
 
-#	Technologies Used:
-Git, choco, AWS and github SSH HTML CSS Font Awesome Google Fonts React NPM webpack babel jest
+This is my professional portfolio. It uses AWS and ReactJS.
+
+## Technologies Used
+
+Brew
+Git and github
+SSH
+HTML
+CSS
+Font Awesome
+Google Fonts
+React
+NPM
+webpack
+babel
+jest
