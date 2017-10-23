@@ -6,7 +6,7 @@ const myWork = [
   {
     'title': "Kibana dashboard",
     'href': "http://dashboard.djc.cloud",
-    'desc': "VPC Flow Log Analysis with the ELK Stack on logz.io, Logz.io is an AI-powered log analysis platform that offers the open source ELK Stack as a cloud service with machine learning technology and can be used for IT infrastructure and application monitoring, DevOps, business intelligence, and more",
+    'desc': "VPC Flow Log Analysis with the ELK Stack on logz.io, Logz.io is an AI-powered log analysis platform that offers the open source ELK Stack as a cloud service with machine learning technology and can be used for IT infrastructure and application monitoring, DevOps, business intelligence, and more <p> this dashboard is showing my VPC with a redhat linux machine running updating teh yum database hourly.",
     'image': {
       'desc': "screen shot of the kibana dashboard",
       'src': "images/kibana.PNG",
@@ -25,8 +25,8 @@ const myWork = [
   },
   {
     'title': "Portfolio Architecture Info",
-    'href': "https://github.com/darran-curant/my-portfolio/blob/master/images/architecture.PNG",
-    'desc': "This is the architecture of this Portfolio, it uses multiple technolgies and programming techniques, The course was provided by \"A Cloud Gurus\" online system.",
+    'href': "https://s3.eu-west-2.amazonaws.com/portfolio.djc.cloud/images/portfolio_architecture.PNG",
+    'desc': "This is the architecture of this Portfolio, it uses multiple technolgies and programming techniques, The course was provided by \"A Cloud Gurus\" online system. ",
     'image': {
       'desc': "screen shot of the architecture",
       'src': "images/portfolio_architecture.PNG",
