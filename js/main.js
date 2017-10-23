@@ -26,7 +26,7 @@ const myWork = [
   {
     'title': "Portfolio Architecture Info",
     'href': "https://github.com/darran-curant/my-portfolio/blob/master/images/architecture.PNG",
-    'desc': "This is the architecture of this Portfolio, it uses multiple technolgies and programming techniques, The course was provided by "A Cloud Gurus" online system.",
+    'desc': "This is the architecture of this Portfolio, it uses multiple technolgies and programming techniques, The course was provided by \"A Cloud Gurus\" online system.",
     'image': {
       'desc': "screen shot of the architecture",
       'src': "images/portfolio_architecture.PNG",
