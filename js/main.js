@@ -6,7 +6,7 @@ const myWork = [
   {
     'title': "Kibana dashboard",
     'href': "http://dashboard.djc.cloud",
-    'desc': "VPC Flow Log Analysis with the ELK Stack on logz.io, Logz.io is an AI-powered log analysis platform that offers the open source ELK Stack as a cloud service with machine learning technology and can be used for IT infrastructure and application monitoring, DevOps, business intelligence, and more <p> this dashboard is showing my VPC with a redhat linux machine running updating teh yum database hourly.",
+    'desc': "VPC Flow Log Analysis with the ELK Stack on logz.io, Logz.io is an AI-powered log analysis platform that offers the open source ELK Stack as a cloud service with machine learning technology and can be used for IT infrastructure and application monitoring, DevOps, business intelligence, and more, This dashboard is showing my VPC with a redhat linux machine updating the yum database hourly.",
     'image': {
       'desc': "screen shot of the kibana dashboard",
       'src': "images/kibana.PNG",
