@@ -9,7 +9,7 @@ const myWork = [
     'desc': "VPC Flow Log Analysis with the ELK Stack on logz.io, Logz.io is an AI-powered log analysis platform that offers the open source ELK Stack as a cloud service with machine learning technology and can be used for IT infrastructure and application monitoring, DevOps, business intelligence, and more",
     'image': {
       'desc': "screen shot of the kibana dashboard",
-      'src': "images/kibana1.png",
+      'src': "images/kibana.PNG",
       'comment': ""
     }
   },
@@ -26,10 +26,50 @@ const myWork = [
   {
     'title': "Portfolio Architecture Info",
     'href': "https://github.com/darran-curant/my-portfolio/blob/master/images/architecture.PNG",
-    'desc': "This is the architecture of this Portfolio",
+    'desc': "This is the architecture of this Portfolio, it uses multiple technolgies and programming techniques, The course was provided by "A Cloud Gurus" online system.",
     'image': {
-      'desc': "screnn shot of the architecture",
-      'src': "images/architecture.PNG",
+      'desc': "screen shot of the architecture",
+      'src': "images/portfolio_architecture.PNG",
+      'comment': ""
+    }
+  },
+  {
+    'title': "AWS Certified SysOps Administrator - Associate Certification",
+    'href': "https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2017-09-16&ci=AWS00226099",
+    'desc': "This is a link to my AWS Sysops Certification page",
+    'image': {
+      'desc': "AWS SYSOPS CERT",
+      'src': "images/awssysops.png",
+      'comment': ""
+    }
+  },
+  {
+    'title': "AWS Certified Developer - Associate Certification",
+    'href': "https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-03-17&ci=AWS00226099",
+    'desc': "This is a link to my AWS Developer Certification page",
+    'image': {
+      'desc': "AWS DEV CERT",
+      'src': "images/awsdev.png",
+      'comment': ""
+    }
+  },
+  {
+    'title': "AWS Certified Solutions Architect - Associate Certification",
+    'href': "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-02-28&ci=AWS00226099",
+    'desc': "This is a link to my AWS Solutions Architect Certification page",
+    'image': {
+      'desc': "AWS SAA CERT",
+      'src': "images/awssaa.png",
+      'comment': ""
+    }
+  },
+  {
+    'title': "Redhat Certification",
+    'href': "https://www.redhat.com/rhtapps/certification/badge/verify/FYF2KTIEIHRIBC6TC5QAFMH5XEAEQU3CUPSQX2KSDXT6RW46LQ37ULE25V3KCXMMFRIX6PMBNQZGA4U5NQYTCNA62RUWOCM34WWBUYQ%3D/",
+    'desc': "This is a link to my Redhat Certification page",
+    'image': {
+      'desc': "RHCSA CERT",
+      'src': "images/rhcsa.png",
       'comment': ""
     }
   }
