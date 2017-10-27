@@ -1,4 +1,4 @@
-# Robin Norwood's portfolio
+# Darran Curants portfolio
 
 This is my professional portfolio. It uses AWS and ReactJS.
 
