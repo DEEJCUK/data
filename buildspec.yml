@@ -13,6 +13,7 @@ artifacts:
     - index.html
     - favicon.ico
     - darran.curant.cv.pdf
+    - RITTECH001367.pdf
     - styles/main.css
     - images/*
     - dist/bundle.js
