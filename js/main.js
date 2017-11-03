@@ -5,7 +5,7 @@ import ExampleWork from './example-work'
 const myWork = [
   {
     'title': "VPC Kibana dashboard",
-    'href': "http://vpcdashboard.djc.cloud",
+    'href': "https://app.logz.io/goto/b743888cd993c2ed8aeb808907bd1b4d?shareToken=53ca6609-b711-421b-9cfd-58f8aad75a64",
     'desc': "VPC Flow Log Analysis with the ELK Stack on logz.io, Logz.io is an AI-powered log analysis platform that offers the open source ELK Stack as a cloud service with machine learning technology and can be used for IT infrastructure and application monitoring, DevOps, business intelligence, and more, This dashboard is showing my VPC with a redhat linux machine updating the yum database hourly.",
     'image': {
       'desc': "screen shot of the VPC flow logs kibana dashboard",
@@ -25,7 +25,7 @@ const myWork = [
   },
   {
     'title': "Cloudfront Kibana Dashboard",
-    'href': "http://cloudfrontdashboard.djc.cloud",
+    'href': "https://app.logz.io/goto/5bcedc56463ebd71c5df86f231d068fb?shareToken=f8140b69-4f9d-4f9c-bf21-73286198dcd6",
     'desc': "Cloudfront Log Analysis with the ELK Stack on logz.io, Logz.io is an AI-powered log analysis platform that offers the open source ELK Stack as a cloud service with machine learning technology and can be used for IT infrastructure and application monitoring, DevOps, business intelligence, and more, This dashboard is showing Amazons cloudfront distribution stats of this website",
     'image': {
       'desc': "screen shot of the Cloudfront logs kibana dashboard",
