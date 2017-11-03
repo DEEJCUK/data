@@ -16,7 +16,7 @@ const myWork = [
   {
     'title': "Jira Dashboard",
     'href': "http://jira.djc.cloud",
-    'desc': "My jira project tracking this portfolio, A JIRA project is a collection of issues. Your team could use a JIRA project to coordinate the development of a product, track a project, manage a help desk, and more, depending on your requirements. A JIRA project can also be configured and customized to suit the needs of you and your team",
+    'desc': "My jira project tracking this portfolio, it uses a redirected static website bucket in S3 fronted by a route 53 record set, A JIRA project is a collection of issues. Your team could use a JIRA project to coordinate the development of a product, track a project, manage a help desk, and more, depending on your requirements. A JIRA project can also be configured and customized to suit the needs of you and your team",
     'image': {
       'desc': "My jira dashboard tracking this Portfolio",
       'src': "images/jira.png",
