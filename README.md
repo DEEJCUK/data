@@ -16,3 +16,4 @@ NPM
 webpack
 babel
 jest
+lots of stuff
